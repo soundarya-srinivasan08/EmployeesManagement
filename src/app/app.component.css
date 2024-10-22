@@ -1,0 +1,19 @@
+body {
+    background-image: url('https://www.google.com/imgres?q=employee%20management%20system&imgurl=https%3A%2F%2Fwww.officetimer.com%2Fwp-content%2Fuploads%2F2017%2F06%2Ftackle-employee-in-effiency.jpg&imgrefurl=https%3A%2F%2Fwww.officetimer.com%2Femployee-management-software%2Ftips-to-tackle-inefficiency-with-an-employee-management-system%2F&docid=wfnYpvq2SCOqyM&tbnid=seE-Kd2TmpnJwM&vet=12ahUKEwiwp-f-v5-JAxUwSGwGHUcwJocQM3oECDoQAA..i&w=350&h=233&hcb=2&ved=2ahUKEwiwp-f-v5-JAxUwSGwGHUcwJocQM3oECDoQAA'); 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+    color: #fff; 
+}
+
+.navbar, .footer {
+    background-color: rgba(0, 0, 0, 0.8); 
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
